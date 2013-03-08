@@ -16,6 +16,10 @@
 ## iPhone 5 - [by Meng To](http://mengto.com)
 ![iPhone](https://raw.github.com/sketch-templates/sketch-ios/master/iPhone.sketch/QuickLook/Thumbnail.png)
 
+![iPhone](https://raw.github.com/sketch-templates/sketch-ios/master/iPhone-Wireframe.sketch/QuickLook/Thumbnail.png)
+
+![iPhone](https://raw.github.com/sketch-templates/sketch-ios/master/iOS-Wireframe.sketch/QuickLook/Thumbnail.png)
+
 
 ## Sign up form - [by Rodolfo Novak](http://rodolfonovak.com)
 ![Sign Up Form](https://raw.github.com/sketch-templates/sketch-ios/master/sign-up-form.sketch/QuickLook/Thumbnail.png)

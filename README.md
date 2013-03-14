@@ -29,6 +29,6 @@
 ![Messages UI](https://raw.github.com/sketch-templates/sketch-ios/master/iOS_Message_UI.sketch/QuickLook/Thumbnail.jpg)
 
 ## iOS 6  ## - [by Zander Brade](http://zanderbrade.com/posts/ios6)
-![iOS UI Kit](https://raw.github.com/sketch-templates/sketch-ios/master/ios6.sketch/QuickLook/Thumbnail.jpg)
+![iOS UI Kit](https://raw.github.com/sketch-templates/sketch-ios/master/ios6.sketch/QuickLook/Thumbnail.png)
 
 

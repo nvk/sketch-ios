@@ -28,3 +28,7 @@
 ## iOS Message UI - [by by Ben Breckler](http://dribbble.com/shots/540655-iOS-Message-UI-made-with-Sketch-2)
 ![Messages UI](https://raw.github.com/sketch-templates/sketch-ios/master/iOS_Message_UI.sketch/QuickLook/Thumbnail.jpg)
 
+## iOS 6  ## - [by Zander Brade](http://zanderbrade.com/posts/ios6)
+![iOS UI Kit](https://raw.github.com/sketch-templates/sketch-ios/master/ios6.sketch/QuickLook/Thumbnail.jpg)
+
+

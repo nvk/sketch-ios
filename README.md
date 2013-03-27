@@ -40,3 +40,8 @@
 
 ![Wireframe](https://raw.github.com/sketch-templates/sketch-ios/master/iphone-wireframe-uikit.sketch/QuickLook/Thumbnail.png)
 
+
+## [by Alex Leeson-Brown](http://manyangl.es/2013/03/sketch-device-wireframes) ##
+
+![Wireframe](https://raw.github.com/sketch-templates/sketch-ios/master/sketchDeviceWireframes.sketch/QuickLook/Thumbnail.png)
+

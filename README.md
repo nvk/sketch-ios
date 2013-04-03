@@ -34,7 +34,7 @@
 
 
 ## [by Zander Brade](http://zanderbrade.com/posts/ios6)
-![iOS UI Kit](https://raw.github.com/sketch-templates/sketch-ios/master/ios6.sketch/QuickLook/Thumbnail.jpg)
+![iOS UI Kit](https://github.com/sketch-templates/sketch-ios/blob/master/ios6.sketch/QuickLook/Thumbnail.png)
 
 ## [by Anthony Aubertin](http://www.anthonyaubertin.com/wireframe/) ##
 

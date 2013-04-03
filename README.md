@@ -48,3 +48,6 @@ To **collaborate**, please [fork](https://github.com/sketch-templates/sketch-ios
 
 ![Wireframe](https://raw.github.com/sketch-templates/sketch-ios/master/sketchDeviceWireframes.sketch/QuickLook/Thumbnail.png)
 
+## [by Tobias Reich](http://electerious.com/)
+
+![iPhone Flat](https://raw.github.com/sketch-templates/sketch-ios/master/iPhone-Flat.sketch/QuickLook/Thumbnail.png)

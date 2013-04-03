@@ -1,5 +1,8 @@
-# iOS Templates #
+To **collaborate**, please [fork](https://github.com/sketch-templates/sketch-ios/fork_select) and make a [pull request](https://github.com/sketch-templates/sketch-ios/pull/new/master).
 
+---
+
+# iOS Templates #
 
 ## [by Marfil](http://www.mmarfil.com/)
 ![ios](https://raw.github.com/sketch-templates/sketch-ios/master/iPhone%20iOS%20UI%20Template.sketch/QuickLook/Thumbnail.png)

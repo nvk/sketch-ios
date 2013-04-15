@@ -1,5 +1,7 @@
 To **collaborate**, please [fork](https://github.com/nvk/sketch-ios/fork_select) and make a [pull request](https://github.com/nvk/sketch-ios/pull/new/master).
 
+**PS: Also check out** [Sketch Icon](https://github.com/nvk/sketch-icons), [Sketch Web](https://github.com/nvk/sketch-web) and [Sketch Browser UI](https://github.com/nvk/sketch-browsers-ui) Tempaltes
+
 ---
 
 # iOS UI Templates #

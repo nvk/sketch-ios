@@ -51,3 +51,6 @@ To **collaborate**, please [fork](https://github.com/nvk/sketch-ios/fork_select)
 ## [by Tobias Reich](http://electerious.com/)
 
 ![iPhone Flat](https://raw.github.com/nvk/sketch-ios/master/iPhone-Flat.sketch/QuickLook/Thumbnail.png)
+
+## [by Bryan Clark](www.bryanjclark.com/)
+![iOS 6 UIKit Stencil](http://f.cl.ly/items/1n3P2t2q0a102t1O2O3t/iOS%206%20UIKit%20Stencil%20-%20Bryan%20Clark%2010.57.45%20AM.png)

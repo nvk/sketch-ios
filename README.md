@@ -56,3 +56,6 @@ To **collaborate**, please [fork](https://github.com/nvk/sketch-ios/fork_select)
 
 ## [by Bryan Clark](www.bryanjclark.com/)
 ![iOS 6 UIKit Stencil](http://f.cl.ly/items/1n3P2t2q0a102t1O2O3t/iOS%206%20UIKit%20Stencil%20-%20Bryan%20Clark%2010.57.45%20AM.png)
+
+## [by Tyler Howarth](http://dribbble.com/shots/1128493-iOS7-App-Icon-Template-Sketch?list=following)
+![iOS7 App Icon Template](https://github.com/nvk/sketch-ios/blob/master/ios7_icon_template.sketch/QuickLook/Preview.png?raw=true)

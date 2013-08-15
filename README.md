@@ -56,3 +56,6 @@ To **collaborate**, please [fork](https://github.com/nvk/sketch-ios/fork_select)
 
 ## [by Bryan Clark](www.bryanjclark.com/)
 ![iOS 6 UIKit Stencil](http://f.cl.ly/items/1n3P2t2q0a102t1O2O3t/iOS%206%20UIKit%20Stencil%20-%20Bryan%20Clark%2010.57.45%20AM.png)
+
+## [by Tap + Tap](http://tapsplusapps.com/ios7-template.html)
+![iOS 7 Beta 3 Template](http://tapsplusapps.com/img/iOS7%20Beta%20Template.png)

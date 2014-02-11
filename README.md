@@ -59,3 +59,9 @@ To **collaborate**, please [fork](https://github.com/nvk/sketch-ios/fork_select)
 
 ## [by Tap + Tap](http://tapsplusapps.com/ios7-template.html)
 ![iOS 7 Beta 3 Template](http://tapsplusapps.com/img/iOS7%20Beta%20Template.png)
+
+
+## [by rssems](http://dribbble.com/shots/1402000-Sidebar-free-sketch-download?list=users)
+![iOS 7 Sidebar](http://d13yacurqjgara.cloudfront.net/users/14405/screenshots/1402000/sidebar-by-rssems.png)
+
+

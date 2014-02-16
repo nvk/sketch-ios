@@ -65,3 +65,5 @@ To **collaborate**, please [fork](https://github.com/nvk/sketch-ios/fork_select)
 ![iOS 7 Sidebar](http://d13yacurqjgara.cloudfront.net/users/14405/screenshots/1402000/sidebar-by-rssems.png)
 
 
+## [by Tyler Howarth](http://dribbble.com/shots/1128493-iOS7-App-Icon-Template-Sketch?list=following)
+![iOS7 App Icon Template](https://github.com/nvk/sketch-ios/blob/master/ios7_icon_template.sketch/QuickLook/Preview.png?raw=true)
